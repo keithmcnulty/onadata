@@ -1,2 +1,7 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^\.github$
+^CRAN-RELEASE$
+^cran-comments\.md$
+^LICENSE\.md$
+^\.travis\.yml$
