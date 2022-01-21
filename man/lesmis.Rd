@@ -3,7 +3,7 @@
 \docType{data}
 \name{lesmis}
 \alias{lesmis}
-\title{Les Miserable character network}
+\title{Les Miserables character network}
 \format{
 A dataframe with 254 rows and 3 variables:
 \describe{
