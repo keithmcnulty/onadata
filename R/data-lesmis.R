@@ -1,4 +1,4 @@
-#' Les Miserable character network
+#' Les Miserables character network
 #'
 #' Edgelist of network of characters in Victor Hugo's Les Miserables based on appearance in the same chapter
 #'
@@ -8,9 +8,9 @@
 #' \item{to}{Character name}
 #' \item{weight}{Number of chapters both characters appear in}
 #' }
-#' 
+#'
 #' @source \href{https://dl.acm.org/doi/book/10.1145/164984}{Knuth, 1993}
-#' 
+#'
 #' @examples
 #' lesmis
 "lesmis"
