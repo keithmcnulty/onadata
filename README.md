@@ -1,5 +1,6 @@
 <!-- badges: start -->
 [![R build status](https://github.com/keithmcnulty/onadata/workflows/R-CMD-check/badge.svg)](https://github.com/keithmcnulty/onadata/actions)
+[![Travis build status](https://travis-ci.com/keithmcnulty/onadata.svg?branch=master)](https://travis-ci.com/keithmcnulty/onadata)
 <!-- badges: end -->
 
 # onadata
