@@ -1,6 +1,6 @@
 Package: onadata
 Title: Data Sets for Keith McNulty's Handbook of Graphs and Networks in People Analytics
-Version: 0.1
+Version: 0.1.9000
 Authors@R: 
   c(person(given = "Keith",
            family = "McNulty",
