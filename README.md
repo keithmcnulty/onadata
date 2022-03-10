@@ -20,3 +20,4 @@ To install the development version
 
 ```
 devtools::install_github("keithmcnulty/onadata")
+```
